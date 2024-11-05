@@ -32,7 +32,7 @@ const currentColor = ref('rojo')
 .semaforo {
   width: 100px;
   height: 300px;
-  background-color: black;
+  background-color: gray;
   padding: 10px;
   display: flex;
   flex-direction: column;
